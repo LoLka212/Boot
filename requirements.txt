@@ -1,2 +1,2 @@
-discord.py
+discord.py - 3.10.7
 interactions
